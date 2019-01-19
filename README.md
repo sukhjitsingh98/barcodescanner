@@ -8,3 +8,4 @@ The data in the database is tracked through timestamps indicating when the item 
 
 Another feature of the app is the ability to see what data is stored in the database. This is done by clicking the 'View List' button on the main screen. This redirects the user to another view which displays the name of each item and its quantity (Per timestamp). 
 
+https://user-images.githubusercontent.com/32529818/51420944-6912d700-1b65-11e9-9adc-1a040928e022.PNG
