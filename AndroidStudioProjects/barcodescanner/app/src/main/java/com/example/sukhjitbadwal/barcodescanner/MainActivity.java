@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    //Method that is executed after an item is scanned.
+    //Method that is executed after an item is scanned. 
     //The scanned data is sent to an external database by calling the 'addItemToSheet' method
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
